@@ -1,4 +1,6 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# Statistical Inference on Secondary School Student Performance in Portugal
 
-..
+Authors: Nariman Avakoli, Marcela Flaherty, Yi Tang, Brianna Zhou
+Group: 13
+
+1. Introduction: 
